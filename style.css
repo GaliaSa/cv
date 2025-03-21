@@ -196,6 +196,7 @@ section {
   }
 }
 
+/*
 .shadow {
   display: block;
   width: 350px;
@@ -207,7 +208,7 @@ section {
   top: 75%;
   left: -5.5%;
   transform: translate(45%, 45%);
-}
+}*/
 
 span {
   display: block;
@@ -347,7 +348,7 @@ p:nth-of-type(3) {
 p:nth-of-type(4) {
   bottom: 00px;
   left: 45px;
-  top:850px;
+  top: 850px;
   font-size: 90px;
 }
 
@@ -359,7 +360,7 @@ p:nth-of-type(5) {
 
 p:nth-of-type(6) {
   bottom: 300px;
-  top:600px;
+  top: 600px;
   left: 950px;
   font-size: 50px;
 }
@@ -407,4 +408,3 @@ p:nth-of-type(6) {
 //   transform: scale(200);
 //   transition: transform 5s ease, fill 5s ease;
 // }
-
